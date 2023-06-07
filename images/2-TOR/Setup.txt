@@ -1,0 +1,2 @@
+ноги - 4f332b - смешивание Multiply
+ткань - e4acb3 - смешивание Linear burn
